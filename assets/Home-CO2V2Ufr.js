@@ -1,0 +1,1 @@
+import{j as e}from"./index-BV0OGL3P.js";function a(){return e.jsxs("div",{className:"home-container",children:[e.jsx("img",{className:"home-image",src:"images/home/home.jpg",alt:""}),e.jsxs("span",{className:"home-image-text-title",children:["Team ODD",e.jsx("br",{}),e.jsx("span",{className:"home-image-text",children:"한성대학교 중앙 게임 개발 동아리"})]})]})}export{a as default};
